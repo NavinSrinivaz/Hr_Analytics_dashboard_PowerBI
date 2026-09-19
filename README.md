@@ -4,7 +4,6 @@ Interactive HR Analytics Dashboard built using **Power BI** to analyze employee 
 
 ## 🛠️ Tools Used
 - Power BI
-- DAX
 - Power Query
 - Data Visualization
 
